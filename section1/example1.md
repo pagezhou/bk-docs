@@ -20,6 +20,18 @@ iframe方式生效吗？
 ![](https://youtu.be/_HjToekoEMk)
 
 
+试试插件大法  
+{% raw %}
+  <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
+  poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+  <source src="resource/vedio/sample1.mp4" type='video/mp4'>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+  </video>
+{% endraw %}
+
 ## 第二章节
 
 
